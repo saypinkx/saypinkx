@@ -68,12 +68,15 @@
   <a href="https://t.me/thy_drug" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
+  <a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
+    <img src ="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-znachki-dlya-rezyume-na-prozrachnom-fone-15.png" height="35" alt="RESUME" />
+  </a>
 </div>
 
 ###
 
 <h1 align="center"><a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
-  Resume  
+    
 </a></h1>
 
 ###
