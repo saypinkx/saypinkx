@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
    <a href="https://vk.com/cute_drug">
-    <img src ="https://1000marcas.net/wp-content/uploads/2021/05/Vk-logo.png" height="35" alt="vk" />
+    <img src ="https://tproger.ru/s3/uploads/2016/12/vk-java-auth.png" height="35" alt="vk" />
   </a>
   <a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
     <img src ="https://w7.pngwing.com/pngs/864/1023/png-transparent-application-for-employment-resume-experience-cover-letter-bank-abhishek-text-rectangle-resume.png" height="35" alt="RESUME" />
