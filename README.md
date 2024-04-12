@@ -66,7 +66,7 @@
     <img src ="https://tproger.ru/s3/uploads/2016/12/vk-java-auth.png" height="35" width="125" alt="vk" />
   </a>
   <a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
-    <img src ="https://w7.pngwing.com/pngs/864/1023/png-transparent-application-for-employment-resume-experience-cover-letter-bank-abhishek-text-rectangle-resume.png" height="35" width="125" alt="RESUME" />
+    <img src ="https://cdn-edge.kwork.ru/pics/t3/82/18241988-1639569782.jpg" height="35"  alt="RESUME" />
   </a>
 </div>
 
