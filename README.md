@@ -72,7 +72,9 @@
 
 ###
 
-<h1 align="center">Welcome to my page!</h1>
+<h1 align="center"><a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
+  Resume  
+</a></h1>
 
 ###
 
