@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
-    <img src ="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/108289122/original/a9d86aadadda8001d5148ea5073ed5b050ebd8d7/edit-write-and-design-reume-cv-and-cl.png" height="35" alt="RESUME" />
+    <img src ="https://w7.pngwing.com/pngs/864/1023/png-transparent-application-for-employment-resume-experience-cover-letter-bank-abhishek-text-rectangle-resume.png" height="35" alt="RESUME" />
   </a>
 </div>
 
