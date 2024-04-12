@@ -66,7 +66,7 @@
     <img src ="https://tproger.ru/s3/uploads/2016/12/vk-java-auth.png" height="35" width="125" alt="vk" />
   </a>
   <a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
-    <img src ="https://cdn-edge.kwork.ru/pics/t3/82/18241988-1639569782.jpg" height="35"  alt="RESUME" />
+    <img src ="https://grizly.club/uploads/posts/2023-02/1676294940_grizly-club-p-klipart-personalnie-dannie-27.png" height="35"  alt="RESUME" />
   </a>
 </div>
 
