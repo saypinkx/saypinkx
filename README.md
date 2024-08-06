@@ -1,6 +1,6 @@
 ## Info
 * 🌍 I'm based in Russia, SPB
-* 🖥️ See my portfolio at [Resume](http://https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf)
+* 🖥️ See my portfolio at [Resume](http://)
 * ✉️ You can contact me at [paprut538@gmail.com](mailto:paprut538@gmail.com)
 * 🚀 I'm currently working on [HunterHack](http://hunterhack.ru)
 
