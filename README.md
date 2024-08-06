@@ -1,18 +1,10 @@
-<h1 align="center">SayPink<br>python backend developer</h1>
 
-###
+* 🌍 I'm based in Russia, SPB
+* 🖥️ See my portfolio at [Resume](http://https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf)
+* ✉️ You can contact me at [paprut538@gmail.com](mailto:paprut538@gmail.com)
+* 🚀 I'm currently working on [HunterHack](http://hunterhack.ru)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saypinkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saypinkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-
-###
-
+### Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -53,42 +45,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
-###
+Socials <p align="left"> <a href="https://www.github.com/saypinkx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/saypinkx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
+<a href="https://t.me/thy_drug" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/757/779/original/black-telegram-logo-black-telegram-icon-free-free-vector.jpg" height="32"  alt="telegram logo"  /></p>
+### Badges
 
-<div align="left">
-  <a href="https://t.me/thy_drug" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" width="125" alt="telegram logo"  />
-  </a>
-  <a href="https://msng.link/o?saypinkx=ig" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" width="125" alt="instagram logo"  />
-  </a>
-   <a href="https://vk.com/cute_drug">
-    <img src ="https://tproger.ru/s3/uploads/2016/12/vk-java-auth.png" height="35" width="125" alt="vk" />
-  </a>
-  <a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
-    <img src ="https://png.pngtree.com/png-vector/20191018/ourlarge/pngtree-resume-icon-for-your-design-websites-and-projects-png-image_1830337.jpg" height="35"  alt="RESUME" />
-  </a>
-</div>
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/saypinkx"><img src="https://github-readme-stats.vercel.app/api?username=saypinkx&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saypinkx's GitHub stats" /></a>
 
-<h1 align="center"><a href="https://github.com/saypinkx/saypinkx/blob/main/РЕЗЮМЕ%20(1).pdf">
-    
-</a></h1>
+<a href="http://www.github.com/saypinkx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saypinkx&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-###
+<b>Top Repositories</b>
 
-<div align="center">
-</div>
+<div width="100%" align="center"><a href="https://github.com/saypinkx/HackHunter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saypinkx&repo=HackHunter&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-###
-
-<img src="https://raw.githubusercontent.com/saypinkx/saypinkx/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saypinkx/count.svg?"  />
-</div>
-
-###
