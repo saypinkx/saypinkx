@@ -1,8 +1,6 @@
 ## Info
 * 🌍 I'm based in Russia, SPB
-* 🖥️ See my portfolio at [Resume](http://)
-* ✉️ You can contact me at [paprut538@gmail.com](mailto:paprut538@gmail.com)
-* 🚀 I'm currently working on [HunterHack](http://hunterhack.ru)
+* ✉️ You can contact me at [pavel.prokopev.spb@gmail.com](mailto:pavel.prokopev.spb@gmail.com)
 
 ## Skills
 <div align="left">
